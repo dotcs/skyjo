@@ -1,4 +1,4 @@
-# skyjo
+# skyjo · [![Build Status](https://travis-ci.org/dotcs/skyjo.svg?branch=master)](https://travis-ci.org/dotcs/skyjo)
 
 
 An implementation of the game Skyjo in Python.
