@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyscaffold = "*"
+pip = "==18.0"
+pylint = "*"
+plotly = "*"
+numpy = "*"
+ipykernel = "*"
+aioredux = "*"
+asyncio = "*"
+tornado = "==4.5.3"
+pytest = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
